@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusiPleer</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="talk_me_down">Talk Me Down</string>
+    <string name="blue_neighbourhood">Blue Neighourhood</string>
+    <string name="song">Song</string>
+</resources>
